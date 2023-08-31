@@ -1,0 +1,789 @@
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 21줄
+AlbumFile_List.txt 읽기완료, 2개의 스케줄
+---스케줄에 의한 새로운 AlbumList 적용
+5개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\v4.4c\Client4_LogFile\Files\Hydrangeas.jpg
+[2] C:\Users\SAMSUNG\Documents\v4.4c\Client4_LogFile\Files\Koala.jpg
+[3] C:\Users\SAMSUNG\Documents\v4.4c\Client4_LogFile\Files\Lighthouse.jpg
+[4] C:\Users\SAMSUNG\Documents\v4.4c\Client4_LogFile\Files\Penguins.jpg
+[5] C:\Users\SAMSUNG\Documents\v4.4c\Client4_LogFile\Files\Tulips.jpg
+전송: AlbumState=앨범재생
+--스케줄이 1개이상 존재, Timer로 Check 시작..
+잘못된 파일, List에서 제외: Hydrangeas.jpg
+해제중: Server에 재접속 시도
+잘못된 파일, List에서 제외: Koala.jpg
+잘못된 파일, List에서 제외: Lighthouse.jpg
+Server에 연결할 수 없습니다.
+잘못된 파일, List에서 제외: Penguins.jpg
+잘못된 파일, List에서 제외: Tulips.jpg
+해제중: Server에 재접속 시도
+Server에 연결할 수 없습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 21줄
+AlbumFile_List.txt 읽기완료, 2개의 스케줄
+---스케줄에 의한 새로운 AlbumList 적용
+5개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\v4.4c\Client4_LogFile\Files\Hydrangeas.jpg
+[2] C:\Users\SAMSUNG\Documents\v4.4c\Client4_LogFile\Files\Koala.jpg
+[3] C:\Users\SAMSUNG\Documents\v4.4c\Client4_LogFile\Files\Lighthouse.jpg
+[4] C:\Users\SAMSUNG\Documents\v4.4c\Client4_LogFile\Files\Penguins.jpg
+[5] C:\Users\SAMSUNG\Documents\v4.4c\Client4_LogFile\Files\Tulips.jpg
+전송: AlbumState=앨범재생
+--스케줄이 1개이상 존재, Timer로 Check 시작..
+잘못된 파일, List에서 제외: Hydrangeas.jpg
+해제중: Server에 재접속 시도
+잘못된 파일, List에서 제외: Koala.jpg
+잘못된 파일, List에서 제외: Lighthouse.jpg
+Server에 연결할 수 없습니다.
+잘못된 파일, List에서 제외: Penguins.jpg
+잘못된 파일, List에서 제외: Tulips.jpg
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 21줄
+AlbumFile_List.txt 읽기완료, 2개의 스케줄
+---스케줄에 의한 새로운 AlbumList 적용
+5개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\Hydrangeas.jpg
+[2] C:\Users\SAMSUNG\Documents\Client\Files\Koala.jpg
+[3] C:\Users\SAMSUNG\Documents\Client\Files\Lighthouse.jpg
+[4] C:\Users\SAMSUNG\Documents\Client\Files\Penguins.jpg
+[5] C:\Users\SAMSUNG\Documents\Client\Files\Tulips.jpg
+전송: AlbumState=앨범재생
+--스케줄이 1개이상 존재, Timer로 Check 시작..
+잘못된 파일, List에서 제외: Hydrangeas.jpg
+잘못된 파일, List에서 제외: Koala.jpg
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=앨범재생&
+잘못된 파일, List에서 제외: Lighthouse.jpg
+잘못된 파일, List에서 제외: Penguins.jpg
+잘못된 파일, List에서 제외: Tulips.jpg
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+명령수신: SEND_ALBUM
+Http Get 완료: FileName = C:\Users\SAMSUNG\Documents\Client\Files\AlbumFile_List.txt, FileSize = 797
+LoadFromSimple 완료, Count = 9
+--- 서버로부터 받은 파일목록 ---
+0804_동양대 20초.wmv
+Dongyang University - E.I.D..mp4
+기초클리닉 홍보 1분.wmv
+GLP 목요일.JPG
+GLP 수요일.JPG
+GLP1.JPG
+GLP2.JPG
+GLP3.JPG
+GLP4.JPG
+ 
+--- 다운받아야 할 파일목록 ---
+0804_동양대 20초.wmv
+Dongyang University - E.I.D..mp4
+기초클리닉 홍보 1분.wmv
+GLP 목요일.JPG
+GLP 수요일.JPG
+GLP1.JPG
+GLP2.JPG
+GLP3.JPG
+GLP4.JPG
+ 
+받아야 할 총용량은 88368285 Bytes
+1번째 파일 Down시작
+-다운로드 완료: 0804_동양대 20초.wmv (20,844,580 Bytes)
+2번째 파일 Down시작
+-다운로드 완료: Dongyang University - E.I.D..mp4 (24 Bytes)
+3번째 파일 Down시작
+-다운로드 완료: 기초클리닉 홍보 1분.wmv (58,368,638 Bytes)
+4번째 파일 Down시작
+-다운로드 완료: GLP 목요일.JPG (217,239 Bytes)
+5번째 파일 Down시작
+-다운로드 완료: GLP 수요일.JPG (219,227 Bytes)
+6번째 파일 Down시작
+-다운로드 완료: GLP1.JPG (196,872 Bytes)
+7번째 파일 Down시작
+-다운로드 완료: GLP2.JPG (244,719 Bytes)
+8번째 파일 Down시작
+-다운로드 완료: GLP3.JPG (217,612 Bytes)
+9번째 파일 Down시작
+-다운로드 완료: GLP4.JPG (271,894 Bytes)
+--GetFilesDone: 파일을 모두 받았습니다.
+--TriggerDoneFile 호출: SEND_ALBUM, AlbumFile_List.txt
+--MainForm.ClientDoneFile 진입: cmd=SEND_ALBUM, FileName=AlbumFile_List.txt
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 36줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+9개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[3] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[4] C:\Users\SAMSUNG\Documents\Client\Files\GLP 목요일.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\GLP 수요일.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\GLP1.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\GLP2.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\GLP3.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\GLP4.JPG
+PlayNextTime: 0804_동양대 20초.wmv
+전송: AlbumState=WMV 재생
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+잘못된 파일, List에서 제외: Dongyang University - E.I.D..mp4
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+Server에 연결이 해제되었습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 36줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+9개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[3] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[4] C:\Users\SAMSUNG\Documents\Client\Files\GLP 목요일.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\GLP 수요일.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\GLP1.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\GLP2.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\GLP3.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\GLP4.JPG
+전송: AlbumState=앨범재생
+PlayNextTime: 0804_동양대 20초.wmv
+전송: AlbumState=WMV 재생
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=WMV 재생&
+Server에 연결이 해제되었습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 36줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+9개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[3] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[4] C:\Users\SAMSUNG\Documents\Client\Files\GLP 목요일.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\GLP 수요일.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\GLP1.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\GLP2.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\GLP3.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\GLP4.JPG
+전송: AlbumState=앨범재생
+PlayNextTime: 0804_동양대 20초.wmv
+전송: AlbumState=WMV 재생
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=WMV 재생&
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+Server에 연결이 해제되었습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 36줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+9개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[3] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[4] C:\Users\SAMSUNG\Documents\Client\Files\GLP 목요일.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\GLP 수요일.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\GLP1.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\GLP2.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\GLP3.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\GLP4.JPG
+전송: AlbumState=앨범재생
+PlayNextTime: 0804_동양대 20초.wmv
+WMP1.PlayState = 9
+WMP1.PlayState = 9
+전송: AlbumState=WMV 재생
+WMP1.PlayState = 3
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=WMV 재생&
+잘못된 파일, List에서 제외: Dongyang University - E.I.D..mp4
+PlayNextTime: 기초클리닉 홍보 1분.wmv
+WMP1.PlayState = 9
+WMP1.PlayState = 10
+WMP1.PlayState = 9
+WMP1.PlayState = 3
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+PlayNextTime: GLP 목요일.JPG
+WMP1.PlayState = 9
+WMP1.PlayState = 10
+전송: AlbumState=JPG 재생
+PlayNextTime: GLP 수요일.JPG
+PlayNextTime: GLP1.JPG
+PlayNextTime: GLP2.JPG
+PlayNextTime: GLP3.JPG
+PlayNextTime: GLP4.JPG
+PlayNextTime: 0804_동양대 20초.wmv
+WMP1.PlayState = 9
+WMP1.PlayState = 9
+전송: AlbumState=WMV 재생
+PlayNextTime: 기초클리닉 홍보 1분.wmv
+WMP1.PlayState = 10
+WMP1.PlayState = 9
+PlayNextTime: GLP 목요일.JPG
+WMP1.PlayState = 10
+전송: AlbumState=JPG 재생
+PlayNextTime: GLP 수요일.JPG
+PlayNextTime: GLP1.JPG
+PlayNextTime: GLP2.JPG
+PlayNextTime: GLP3.JPG
+PlayNextTime: GLP4.JPG
+PlayNextTime: 0804_동양대 20초.wmv
+WMP1.PlayState = 9
+WMP1.PlayState = 9
+전송: AlbumState=WMV 재생
+WMP1.PlayState = 3
+PlayNextTime: 기초클리닉 홍보 1분.wmv
+WMP1.PlayState = 9
+WMP1.PlayState = 10
+WMP1.PlayState = 9
+WMP1.PlayState = 3
+PlayNextTime: GLP 목요일.JPG
+WMP1.PlayState = 9
+WMP1.PlayState = 10
+전송: AlbumState=JPG 재생
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+PlayNextTime: GLP 수요일.JPG
+Server에 연결이 해제되었습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 36줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+9개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[3] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[4] C:\Users\SAMSUNG\Documents\Client\Files\GLP 목요일.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\GLP 수요일.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\GLP1.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\GLP2.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\GLP3.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\GLP4.JPG
+전송: AlbumState=앨범재생
+PlayNextTime: 0804_동양대 20초.wmv
+WMP1.PlayState = 9
+WMP1.PlayState = 9
+전송: AlbumState=WMV 재생
+WMP1.PlayState = 3
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=WMV 재생&
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+WMP1.PlayState = 8
+WMP1.PlayState = 9
+WMP1.PlayState = 1
+잘못된 파일, List에서 제외: Dongyang University - E.I.D..mp4
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+Server에 연결이 해제되었습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 36줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+9개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[3] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[4] C:\Users\SAMSUNG\Documents\Client\Files\GLP 목요일.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\GLP 수요일.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\GLP1.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\GLP2.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\GLP3.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\GLP4.JPG
+전송: AlbumState=앨범재생
+PlayNextTime: 0804_동양대 20초.wmv
+WMP1.PlayState = 9
+WMP1.PlayState = 9
+전송: AlbumState=WMV 재생
+WMP1.PlayState = 3
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=WMV 재생&
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+WMP1.PlayState = 8
+WMP1.PlayState = 9
+WMP1.PlayState = 1
+잘못된 파일, List에서 제외: Dongyang University - E.I.D..mp4
+Server에 연결이 해제되었습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 36줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+9개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[3] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[4] C:\Users\SAMSUNG\Documents\Client\Files\GLP 목요일.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\GLP 수요일.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\GLP1.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\GLP2.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\GLP3.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\GLP4.JPG
+전송: AlbumState=앨범재생
+PlayNextTime: 0804_동양대 20초.wmv
+WMP1.PlayState = 9
+WMP1.PlayState = 9
+전송: AlbumState=WMV 재생
+WMP1.PlayState = 3
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=WMV 재생&
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+WMP1.PlayState = 8
+WMP1.PlayState = 9
+WMP1.PlayState = 1
+잘못된 파일, List에서 제외: Dongyang University - E.I.D..mp4
+PlayNextTime: 기초클리닉 홍보 1분.wmv
+WMP1.PlayState = 9
+WMP1.PlayState = 10
+WMP1.PlayState = 9
+WMP1.PlayState = 3
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+WMP1.PlayState = 8
+WMP1.PlayState = 9
+WMP1.PlayState = 1
+PlayNextTime: GLP 목요일.JPG
+WMP1.PlayState = 9
+WMP1.PlayState = 10
+전송: AlbumState=JPG 재생
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+PlayNextTime: GLP 수요일.JPG
+PlayNextTime: GLP1.JPG
+PlayNextTime: GLP2.JPG
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+PlayNextTime: GLP3.JPG
+PlayNextTime: GLP4.JPG
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+PlayNextTime: 0804_동양대 20초.wmv
+WMP1.PlayState = 9
+WMP1.PlayState = 9
+전송: AlbumState=WMV 재생
+WMP1.PlayState = 3
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+WMP1.PlayState = 8
+WMP1.PlayState = 9
+WMP1.PlayState = 1
+PlayNextTime: 기초클리닉 홍보 1분.wmv
+WMP1.PlayState = 9
+WMP1.PlayState = 10
+WMP1.PlayState = 9
+WMP1.PlayState = 3
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+Server에 연결이 해제되었습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 36줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+9개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[3] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[4] C:\Users\SAMSUNG\Documents\Client\Files\GLP 목요일.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\GLP 수요일.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\GLP1.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\GLP2.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\GLP3.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\GLP4.JPG
+전송: AlbumState=앨범재생
+PlayNextTime: 0804_동양대 20초.wmv
+전송: AlbumState=WMV 재생
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=WMV 재생&
+Server에 연결이 해제되었습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 36줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+9개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[3] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[4] C:\Users\SAMSUNG\Documents\Client\Files\GLP 목요일.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\GLP 수요일.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\GLP1.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\GLP2.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\GLP3.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\GLP4.JPG
+전송: AlbumState=앨범재생
+PlayNextFile: 0804_동양대 20초.wmv
+전송: AlbumState=WMV 재생
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=WMV 재생&
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+잘못된 파일, List에서 제외: Dongyang University - E.I.D..mp4
+잘못된 파일, List에서 제외: 기초클리닉 홍보 1분.wmv
+PlayNextFile: GLP 목요일.JPG
+전송: AlbumState=JPG 재생
+PlayNextFile: GLP 수요일.JPG
+Server에 연결이 해제되었습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 36줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+9개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[3] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[4] C:\Users\SAMSUNG\Documents\Client\Files\GLP 목요일.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\GLP 수요일.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\GLP1.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\GLP2.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\GLP3.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\GLP4.JPG
+전송: AlbumState=앨범재생
+PlayNextFile: 0804_동양대 20초.wmv
+전송: AlbumState=WMV 재생
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=WMV 재생&
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+잘못된 파일, List에서 제외: Dongyang University - E.I.D..mp4
+잘못된 파일, List에서 제외: 기초클리닉 홍보 1분.wmv
+PlayNextFile: GLP 목요일.JPG
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 36줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+9개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[3] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[4] C:\Users\SAMSUNG\Documents\Client\Files\GLP 목요일.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\GLP 수요일.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\GLP1.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\GLP2.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\GLP3.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\GLP4.JPG
+전송: AlbumState=앨범재생
+PlayNextFile: 0804_동양대 20초.wmv
+전송: AlbumState=WMV 재생
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=WMV 재생&
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+잘못된 파일, List에서 제외: Dongyang University - E.I.D..mp4
+잘못된 파일, List에서 제외: 기초클리닉 홍보 1분.wmv
+PlayNextFile: GLP 목요일.JPG
+전송: AlbumState=JPG 재생
+PlayNextFile: GLP 수요일.JPG
+Server에 연결이 해제되었습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 36줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+9개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[3] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[4] C:\Users\SAMSUNG\Documents\Client\Files\GLP 목요일.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\GLP 수요일.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\GLP1.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\GLP2.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\GLP3.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\GLP4.JPG
+전송: AlbumState=앨범재생
+PlayNextFile: 0804_동양대 20초.wmv
+전송: AlbumState=WMV 재생
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=WMV 재생&
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+잘못된 파일, List에서 제외: Dongyang University - E.I.D..mp4
+잘못된 파일, List에서 제외: 기초클리닉 홍보 1분.wmv
+PlayNextFile: GLP 목요일.JPG
+전송: AlbumState=JPG 재생
+Server에 연결이 해제되었습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=&
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+명령수신: SEND_ALBUM
+Http Get 완료: FileName = C:\Users\SAMSUNG\Documents\Client\Files\AlbumFile_List.txt, FileSize = 992
+LoadFromSimple 완료, Count = 11
+--- 서버로부터 받은 파일목록 ---
+0804_동양대 20초.wmv
+기초클리닉 홍보 1분.wmv
+Dongyang University - E.I.D..mp4
+기획1.JPG
+기획2.JPG
+기획3.JPG
+기획4.JPG
+산림치유지도사 합격.JPG
+잉글리쉬카페.JPG
+창업보육센터 운영평가A.JPG
+토익.JPG
+ 
+--- 다운받아야 할 파일목록 ---
+0804_동양대 20초.wmv
+기초클리닉 홍보 1분.wmv
+Dongyang University - E.I.D..mp4
+기획1.JPG
+기획2.JPG
+기획3.JPG
+기획4.JPG
+산림치유지도사 합격.JPG
+잉글리쉬카페.JPG
+창업보육센터 운영평가A.JPG
+토익.JPG
+ 
+받아야 할 총용량은 89197848 Bytes
+1번째 파일 Down시작
+-다운로드 완료: 0804_동양대 20초.wmv (20,844,580 Bytes)
+2번째 파일 Down시작
+-다운로드 완료: 기초클리닉 홍보 1분.wmv (58,368,638 Bytes)
+3번째 파일 Down시작
+-다운로드 완료: Dongyang University - E.I.D..mp4 (24 Bytes)
+4번째 파일 Down시작
+-다운로드 완료: 기획1.JPG (228,702 Bytes)
+5번째 파일 Down시작
+-다운로드 완료: 기획2.JPG (179,280 Bytes)
+6번째 파일 Down시작
+-다운로드 완료: 기획3.JPG (176,722 Bytes)
+7번째 파일 Down시작
+-다운로드 완료: 기획4.JPG (212,585 Bytes)
+8번째 파일 Down시작
+-다운로드 완료: 산림치유지도사 합격.JPG (582,011 Bytes)
+9번째 파일 Down시작
+-다운로드 완료: 잉글리쉬카페.JPG (270,663 Bytes)
+10번째 파일 Down시작
+-다운로드 완료: 창업보육센터 운영평가A.JPG (326,587 Bytes)
+11번째 파일 Down시작
+-다운로드 완료: 토익.JPG (220,576 Bytes)
+--GetFilesDone: 파일을 모두 받았습니다.
+--TriggerDoneFile 호출: SEND_ALBUM, AlbumFile_List.txt
+--MainForm.ClientDoneFile 진입: cmd=SEND_ALBUM, FileName=AlbumFile_List.txt
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 44줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+11개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[3] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[4] C:\Users\SAMSUNG\Documents\Client\Files\기획1.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\기획2.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\기획3.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\기획4.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\산림치유지도사 합격.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\잉글리쉬카페.JPG
+[10] C:\Users\SAMSUNG\Documents\Client\Files\창업보육센터 운영평가A.JPG
+[11] C:\Users\SAMSUNG\Documents\Client\Files\토익.JPG
+전송: AlbumState=앨범재생
+PlayNextFile: 0804_동양대 20초.wmv
+전송: AlbumState=WMV 재생
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+잘못된 파일, List에서 제외: 기초클리닉 홍보 1분.wmv
+잘못된 파일, List에서 제외: Dongyang University - E.I.D..mp4
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+PlayNextFile: 기획1.JPG
+전송: AlbumState=JPG 재생
+PlayNextFile: 기획2.JPG
+PlayNextFile: 기획3.JPG
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+PlayNextFile: 기획4.JPG
+Server에 연결이 해제되었습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 44줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+11개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[3] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[4] C:\Users\SAMSUNG\Documents\Client\Files\기획1.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\기획2.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\기획3.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\기획4.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\산림치유지도사 합격.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\잉글리쉬카페.JPG
+[10] C:\Users\SAMSUNG\Documents\Client\Files\창업보육센터 운영평가A.JPG
+[11] C:\Users\SAMSUNG\Documents\Client\Files\토익.JPG
+전송: AlbumState=앨범재생
+PlayNextFile: 0804_동양대 20초.wmv
+전송: AlbumState=WMV 재생
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=WMV 재생&
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+연결중: 연결확인용 HellO 전송
+명령수신: GooD
+잘못된 파일, List에서 제외: 기초클리닉 홍보 1분.wmv
+잘못된 파일, List에서 제외: Dongyang University - E.I.D..mp4
+PlayNextFile: 기획1.JPG
+전송: AlbumState=JPG 재생
+PlayNextFile: 기획2.JPG
+Server에 연결이 해제되었습니다.
+--TAlbum.RunAlbum에서 scManager.LoadFromFile 호출
+AlbumFile_List.txt 읽기시작, 44줄
+AlbumFile_List.txt 읽기완료, 1개의 스케줄
+--기본목록만 있어 기본목록 적용
+---스케줄에 의한 새로운 AlbumList 적용
+11개의 파일목록 사용.
+
+[1] C:\Users\SAMSUNG\Documents\Client\Files\0804_동양대 20초.wmv
+[2] C:\Users\SAMSUNG\Documents\Client\Files\기초클리닉 홍보 1분.wmv
+[3] C:\Users\SAMSUNG\Documents\Client\Files\Dongyang University - E.I.D..mp4
+[4] C:\Users\SAMSUNG\Documents\Client\Files\기획1.JPG
+[5] C:\Users\SAMSUNG\Documents\Client\Files\기획2.JPG
+[6] C:\Users\SAMSUNG\Documents\Client\Files\기획3.JPG
+[7] C:\Users\SAMSUNG\Documents\Client\Files\기획4.JPG
+[8] C:\Users\SAMSUNG\Documents\Client\Files\산림치유지도사 합격.JPG
+[9] C:\Users\SAMSUNG\Documents\Client\Files\잉글리쉬카페.JPG
+[10] C:\Users\SAMSUNG\Documents\Client\Files\창업보육센터 운영평가A.JPG
+[11] C:\Users\SAMSUNG\Documents\Client\Files\토익.JPG
+전송: AlbumState=앨범재생
+PlayNextFile: 0804_동양대 20초.wmv
+전송: AlbumState=WMV 재생
+해제중: Server에 재접속 시도
+Server에 연결되었습니다.
+전송: num=3&mac=&album=WMV 재생&
+Server에 연결이 해제되었습니다.
